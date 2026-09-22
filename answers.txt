@@ -1,0 +1,501 @@
+5:
+pcanalia@Peters-MacBook-Pro GitFall2026-Canalia % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+pcanalia@Peters-MacBook-Pro GitFall2026-Canalia % git log
+commit e7fd94bc0664e9558068ae2836794523f93a497f (HEAD -> main, origin/main, origin/HEAD)
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 22 09:35:42 2026 -0500
+
+    Create .gitignore
+    
+    Added .gitignore file
+
+commit 6aa1abee20eed47f2b9cc1f5aa21c19d72ab80ee
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 22 08:50:34 2026 -0500
+
+    Files added
+    
+    Added files missing
+
+commit 5f75e751488fd0b16c81325c9ae814ff65f0c95b
+Merge: fca18d2 b3e573c
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 10:10:46 2024 -0500
+
+    Merge branch 'readme'
+    I do not like VI
+    that is what
+
+commit fca18d2606f45601cf99aec4f279339a0dee18d8
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 10:08:52 2024 -0500
+
+    BookShop class create
+
+commit b3e573c8b75940e9bbcda519b0bece046f4b60eb
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 10:06:47 2024 -0500
+
+    added another name
+
+commit ea123f795a7a0cfc8de45c824e9b7cf17985d355
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 10:06:30 2024 -0500
+
+    added another name
+
+commit 4cd474a9c054ca0c47dcf47ac7ab0a44b6c66757
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 10:05:55 2024 -0500
+
+    sllepy message
+
+commit 82280194a20dfdfea27311d89fdb20761655217f
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 10:03:00 2024 -0500
+
+    Updated readme file
+
+commit 985e63e6d4226c156c56c38d061e57e1672dd90b
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:59:08 2024 -0500
+
+    Added more names
+
+commit 21ea409f47aa292619b8dea918c0c3eb02f82ccc
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:56:24 2024 -0500
+
+    Added names LinkedList
+
+commit b02c65d884b0a0f344a482cbb0366139b7bcd969
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:49:33 2024 -0500
+
+    added empty Main.java
+
+commit bdd2fa9c9cb3d6e17a156106f0da1ac7fd9194ff
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:25:22 2024 -0500
+
+    starter files
+ ESCOC
+72dd90b
+l.com>
+
+
+
+
+2f82ccc
+l.com>
+
+
+
+
+7bcd969
+l.com>
+
+
+
+
+d9194ff
+l.com>
+
+
+
+ ESCOC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ESCOC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ESCOD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ESCOD
+72dd90b
+l.com>
+
+
+
+
+2f82ccc
+l.com>
+
+
+
+
+7bcd969
+l.com>
+
+
+
+
+d9194ff
+l.com>
+
+
+
+ ESCOD
+commit 985e63e6d4226c156c56c38d061e57e1672dd90b
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:59:08 2024 -0500
+
+    Added more names
+
+commit 21ea409f47aa292619b8dea918c0c3eb02f82ccc
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:56:24 2024 -0500
+
+    Added names LinkedList
+
+commit b02c65d884b0a0f344a482cbb0366139b7bcd969
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:49:33 2024 -0500
+
+    added empty Main.java
+
+commit bdd2fa9c9cb3d6e17a156106f0da1ac7fd9194ff
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:25:22 2024 -0500
+
+    starter files
+ ESCOD
+commit 985e63e6d4226c156c56c38d061e57e1672dd90b
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:59:08 2024 -0500
+
+    Added more names
+
+commit 21ea409f47aa292619b8dea918c0c3eb02f82ccc
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:56:24 2024 -0500
+
+    Added names LinkedList
+
+commit b02c65d884b0a0f344a482cbb0366139b7bcd969
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:49:33 2024 -0500
+
+    added empty Main.java
+
+commit bdd2fa9c9cb3d6e17a156106f0da1ac7fd9194ff
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:25:22 2024 -0500
+
+    starter files
+ ESCOD
+commit 985e63e6d4226c156c56c38d061e57e1672dd90b
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:59:08 2024 -0500
+
+    Added more names
+
+commit 21ea409f47aa292619b8dea918c0c3eb02f82ccc
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:56:24 2024 -0500
+
+    Added names LinkedList
+
+commit b02c65d884b0a0f344a482cbb0366139b7bcd969
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:49:33 2024 -0500
+
+    added empty Main.java
+
+commit bdd2fa9c9cb3d6e17a156106f0da1ac7fd9194ff
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 09:25:22 2024 -0500
+
+    starter files
+ ESCOC
+72dd90b
+l.com>
+
+
+
+
+2f82ccc
+l.com>
+
+
+
+
+7bcd969
+l.com>
+
+
+
+
+d9194ff
+l.com>
+
+
+
+
+93a497f (HEAD -> main, origin/main, origin/HEAD)
+l.com>
+
+
+
+
+
+
+2ab80ee
+l.com>
+
+
+
+
+
+
+5f0c95b
+
+l.com>
+
+
+
+
+...skipping...
+
+                   SUMMARY OF LESS COMMANDS
+
+      Commands marked with * may be preceded by a number, N.
+      Notes in parentheses indicate the behavior if N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------
+
+                           MOVING
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+  b  ^B  ESC-v      *  Backward one window (or N lines).
+  z                 *  Forward  one window (and set window to N).
+  w                 *  Backward one window (and set window to N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.
+  d  ^D             *  Forward  one half-window (and set half-window to N).
+  u  ^U             *  Backward one half-window (and set half-window to N).
+  ESC-)  RightArrow *  Right one half screen width (or N positions).
+HELP -- Press RETURN for more, or q when done...skipping...
+commit e7fd94bc0664e9558068ae2836794523f93a497f (HEAD -> main, origin/main, origin/HEAD)
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 22 09:35:42 2026 -0500
+
+    Create .gitignore
+    
+    Added .gitignore file
+
+commit 6aa1abee20eed47f2b9cc1f5aa21c19d72ab80ee
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 22 08:50:34 2026 -0500
+
+    Files added
+    
+    Added files missing
+
+commit 5f75e751488fd0b16c81325c9ae814ff65f0c95b
+Merge: fca18d2 b3e573c
+Author: Esteban Parra <estebanpr014@gmail.com>
+Date:   Tue Sep 10 10:10:46 2024 -0500
+
+    Merge branch 'readme'
+pcanalia@Peters-MacBook-Pro GitFall2026-Canalia % git shortlog
+Esteban Parra (12):
+      starter files
+      added empty Main.java
+      Added names LinkedList
+      Added more names
+      Updated readme file
+      sllepy message
+      added another name
+      added another name
+      BookShop class create
+      Merge branch 'readme' I do not like VI that is what
+      Files added
+      Create .gitignore
+
+pcanalia@Peters-MacBook-Pro GitFall2026-Canalia % git log --graph 
+* commit e7fd94bc0664e9558068ae2836794523f93a497f (HEAD -> main, origin/main, origin/HEAD)
+| Author: Esteban Parra <estebanpr014@gmail.com>
+| Date:   Tue Sep 22 09:35:42 2026 -0500
+| 
+|     Create .gitignore
+|     
+|     Added .gitignore file
+| 
+* commit 6aa1abee20eed47f2b9cc1f5aa21c19d72ab80ee
+| Author: Esteban Parra <estebanpr014@gmail.com>
+| Date:   Tue Sep 22 08:50:34 2026 -0500
+| 
+|     Files added
+|     
+|     Added files missing
+|   
+*   commit 5f75e751488fd0b16c81325c9ae814ff65f0c95b
+|\  Merge: fca18d2 b3e573c
+| | Author: Esteban Parra <estebanpr014@gmail.com>
+| | Date:   Tue Sep 10 10:10:46 2024 -0500
+| | 
+| |     Merge branch 'readme'
+pcanalia@Peters-MacBook-Pro GitFall2026-Canalia % git log --graph --oneline
+* e7fd94b (HEAD -> main, origin/main, origin/HEAD) Create .gitignore
+* 6aa1abe Files added
+*   5f75e75 Merge branch 'readme' I do not like VI that is what
+|\  
+| * b3e573c added another name
+| * ea123f7 added another name
+| * 4cd474a sllepy message
+* | fca18d2 BookShop class create
+|/  
+* 8228019 Updated readme file
+* 985e63e Added more names
+* 21ea409 Added names LinkedList
+* b02c65d added empty Main.java
+* bdd2fa9 starter files
+pcanalia@Peters-MacBook-Pro GitFall2026-Canalia % 
+
+6:
+
+origin
+
+22:
+
+* feature1
+  main
+
+30:
+
+answers.txt	BookShop.java	Main.java	README.md
+book.txt	inspiration.txt	properties.txt	src
+
+33:
+
+zsh: command not found: gitk
+
+
+
+a) How many commits have been done to the repository?
+
+16 commits
+
+(b) When was the .gitignore file modified last?
+
+When I had it ignore properties.txt
+
+(c) What command(s) could you use to obtain the list of files that were in a
+repository on a specific date e.g., Files in the repository on 06/01/2020
+
+Git status or git diff
+
+(d) How many times was each of the files inside the src folder modified?
+
+1
+
+(e) How many addition operations were involved in the creation of the file Re-
+move.txt?
+
+1
+
+(f) What is the difference between git log and git status?
+
+Git log shows commits already made, git status shows what is currently happening
+
+(g) What does the command shortlog do?
+
+It summarizes the log by author
+
+(h) What command would you use to list the commits in which the file “Main.java”
+was part of the committed files?
+
+Git log -- main.java
+
+(i) What command would you use to list the commits in which the file “Main.java”
+was part of the committed files, including renames and the diffs of each com-
+mit?
+
+Git log --follow -p -- main.java
+
+(j) What command would you use to list the commits whose commit message
+contains the word “account”?
+
+git log --grep="account"
+
+(k) What command would you use to see the commits made by a specific person?
+
+git log --author="pcanalia03-ops"
+
+(l) What command would you use to see the commits made by “Lauren” between
+01/05/2014 and 01/14/2024?
+
+git log --author="Lauren" --since="2014-01-05" --until="2024-01-14"
