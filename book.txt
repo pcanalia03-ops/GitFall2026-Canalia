@@ -1,0 +1,1 @@
+The last book I read/am reading is a book about audio electronics. It's presented in textbook style, but is interesting because it breaks things down into the smallest components before it builds them up to help me to understand them better. I'm reading the book so I can hopefully start to design my own audio circuitry.
