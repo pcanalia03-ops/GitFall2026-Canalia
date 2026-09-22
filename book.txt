@@ -1,1 +1,16 @@
-The last book I read/am reading is a book about audio electronics. It's presented in textbook style, but is interesting because it breaks things down into the smallest components before it builds them up to help me to understand them better. I'm reading the book so I can hopefully start to design my own audio circuitry.
+The last book I read/am reading is a book about audio electronics. It's presented in textbook style, but is interesting because it breaks things down into the smallest components before it builds them up to help me to understand them better. I'm reading the book so I can hopefully start to design my own audio circuitry.On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   book.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .gitignore
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	GitLogs.txt
+
